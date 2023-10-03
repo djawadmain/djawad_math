@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: djawad-math
+Version: 0.0.1
+License: MIT
+License-File: LICENSE
+Requires-Dist: importlib-metadata; python_version == "3.8"

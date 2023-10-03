@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+djawad_math.egg-info/PKG-INFO
+djawad_math.egg-info/SOURCES.txt
+djawad_math.egg-info/dependency_links.txt
+djawad_math.egg-info/requires.txt
+djawad_math.egg-info/top_level.txt
+math_module/__init__.py
+math_module/main.py
+math_module/math_functions/__init__.py
+math_module/math_functions/decorators.py
+math_module/math_functions/exeptions.py
+math_module/math_functions/patterns_get_n.py
