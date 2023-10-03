@@ -3,11 +3,11 @@ math calculating module
 
 for running write this command
 ```bash
-python math_module/main.py <math_function> <args>
+python -m math_module__main__.py <math_function> <args>
 ```
 
 for example
 ```bash
-python math_module/main.py fibonacci 10
+python -m math_module__main__.py fibonacci 10
 >>> 55
 ```
