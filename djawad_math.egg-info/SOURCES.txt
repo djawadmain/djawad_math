@@ -7,7 +7,7 @@ djawad_math.egg-info/dependency_links.txt
 djawad_math.egg-info/requires.txt
 djawad_math.egg-info/top_level.txt
 math_module/__init__.py
-math_module/main.py
+math_module/__main__.py
 math_module/math_functions/__init__.py
 math_module/math_functions/decorators.py
 math_module/math_functions/exeptions.py
