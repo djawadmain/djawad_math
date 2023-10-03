@@ -2,7 +2,7 @@
 math calculating module
 
 for running write this command
-```console
+```bash
 python math_module/main.py <math_function> <args>
 ```
 
